@@ -1,6 +1,6 @@
 # adlist-pihole
 https://pastebin.com/58t7CYst
-INSTALL PI HOLE
+# INSTALL PI HOLE
 ===============
 1. apt update
 2. apt upgrade
